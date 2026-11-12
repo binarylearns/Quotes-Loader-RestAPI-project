@@ -10,3 +10,9 @@ class QuotePostListCreate(generics.ListCreateAPIView):
     queryset = Quote.objects.all()
     serializer_class = QuoteSerializer
 
+class QuotePostRetriveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Quote.objects.all()
+    serializer_class = QuoteSerializer
+    lookup_field ="pk"
+
+    
