@@ -4,6 +4,13 @@ A simple and modern Daily Quote Generator built with **Django**, **Django REST F
 
 QuoteNest displays inspirational quotes one at a time through a clean frontend interface. It also includes a Django REST API for managing quote data.
 
+
+
+![Uploading image.png…]()
+
+
+
+
 ## Features
 
 - [x] Display inspirational quotes
