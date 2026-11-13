@@ -5,6 +5,8 @@ from .serializers import QuoteSerializer
 
 # Create your views here.
 
+def home(request):
+    return render(request, 'index.html')
 
 class QuotePostListCreate(generics.ListCreateAPIView):
     queryset = Quote.objects.all()
@@ -15,4 +17,4 @@ class QuotePostRetriveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = QuoteSerializer
     lookup_field ="pk"
 
-    
+

@@ -5,6 +5,8 @@ from .import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.home, name='home'),
+
     path('quote/', views.QuotePostListCreate.as_view(), name='list_create'),
     path('quote/<int:pk>/', views.QuotePostRetriveUpdateDestroy.as_view(), name='list_update')
 

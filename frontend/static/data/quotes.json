@@ -1,0 +1,53 @@
+
+[
+    {
+        "id": 1,
+        "quote": "Health is wealth",
+        "author": "Anonymous"
+    },
+    {
+        "id": 2,
+        "quote": "The secret of getting ahead is getting started",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 3,
+        "quote": "It always seems impossible until it's done",
+        "author": "Nelson Mandela"
+    },
+    {
+        "id": 4,
+        "quote": "Slow and steady wins the race",
+        "author": "Aesop"
+    },
+    {
+        "id": 5,
+        "quote": "Great things are done by a series of small things brought together",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "id": 6,
+        "quote": "Believe you can and you're halfway there",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "id": 7,
+        "quote": "Dream big and dare to fail",
+        "author": "Norman Vaughan"
+    },
+    {
+        "id": 8,
+        "quote": "Do what you can, with what you have, where you are",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "id": 9,
+        "quote": "Success is the sum of small efforts repeated day in and day out",
+        "author": "Robert Collier"
+    },
+    {
+        "id": 10,
+        "quote": "Stay hungry, stay foolish",
+        "author": "Steve Jobs"
+    }
+]
