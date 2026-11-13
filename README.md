@@ -6,7 +6,6 @@ QuoteNest displays inspirational quotes one at a time through a clean frontend i
 
 
 
-![Uploading image.png…]()
 
 
 
