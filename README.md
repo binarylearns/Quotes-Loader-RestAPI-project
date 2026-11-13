@@ -156,4 +156,4 @@ GitHub: https://github.com/binarylearns
 
 ---
 
-*Built as a learning project to practice Django REST Framework and frontend development.*
+*Built as a fun project to practice Django REST Framework and frontend development.*
